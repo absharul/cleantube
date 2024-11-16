@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cleantube/static/css/main.fcc0fe20.css",
+    "main.js": "/cleantube/static/js/main.c798ffdb.js",
+    "static/js/453.6fbf310b.chunk.js": "/cleantube/static/js/453.6fbf310b.chunk.js",
+    "index.html": "/cleantube/index.html",
+    "main.fcc0fe20.css.map": "/cleantube/static/css/main.fcc0fe20.css.map",
+    "main.c798ffdb.js.map": "/cleantube/static/js/main.c798ffdb.js.map",
+    "453.6fbf310b.chunk.js.map": "/cleantube/static/js/453.6fbf310b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fcc0fe20.css",
+    "static/js/main.c798ffdb.js"
+  ]
+}
