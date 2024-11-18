@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Chrome Extension for clearing the suggested video on YouTube Homepage
+
+Open [Download the Extension Here](https://absharul.github.io/cleantube) to view it in your browser.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -9,7 +11,6 @@ In the project directory, you can run:
 ### `npm start`
 
 Runs the app in the development mode.\
-Open [Github Pages](https://absharul.github.io/cleantube) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
