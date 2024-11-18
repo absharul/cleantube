@@ -7,7 +7,7 @@ const Header = () => {
         <h1 className="text-4xl font-bold">CleanTube</h1>
         <p className="mt-2 text-xl">Your Distraction-Free YouTube Experience</p>
         <a
-          href="https://chrome.google.com/webstore"
+          href="https://drive.google.com/file/d/1vqx-te34aD6fIJp6zWIZc5gsIyDMRsjS/view?usp=sharing"
           className="mt-4 inline-block bg-blue-800 text-white py-2 px-6 rounded-full text-lg hover:bg-blue-700 transition"
         >
           Get the Extension
