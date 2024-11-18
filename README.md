@@ -1,4 +1,4 @@
-# Chrome Extension for clearing the suggested video on YouTube Homepage
+# Chrome Extension for clearing the suggested videos from YouTube Homepage
 
 Open [Download the Extension Here](https://absharul.github.io/cleantube) to view it in your browser.
 
