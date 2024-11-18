@@ -1,6 +1,6 @@
 # Chrome Extension for clearing the suggested videos from YouTube Homepage
 
-Open [Download the Extension Here](https://absharul.github.io/cleantube) to view it in your browser.
+Open [Download the Extension Here](https://absharul.github.io) to view it in your browser.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
